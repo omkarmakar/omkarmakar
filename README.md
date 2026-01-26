@@ -81,7 +81,7 @@ The portfolio includes:
 
 ### Hacktoberfest 2024
 
-<img src="https://www.holopin.io/@omkarmakar#badges" alt="Hacktoberfest 2024 Badges" />
+<img src="https://www.holopin.io/omkarmakar" alt="Hacktoberfest 2024 Badges" />
 
 ---
 
