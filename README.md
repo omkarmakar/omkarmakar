@@ -34,7 +34,7 @@ I enjoy combining core engineering principles with AI to build systems that gene
 ## 🚀 Portfolio Highlight
 
 > **Explore my complete body of work, research projects, and deployed applications**  
-> 👉 **[Visit my portfolio website](https://your-portfolio-link.com)**
+> 👉 **[Visit my portfolio website](https://byomkesh.vercel.app)**
 
 The portfolio includes:
 - End-to-end AI & ML projects  
@@ -77,11 +77,21 @@ The portfolio includes:
 
 ---
 
-## 📈 GitHub Overview
+## 🏆 Contributions
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmakar&theme=dark&layout=compact)
+### Hacktoberfest 2024
 
-> For complete project documentation, demos, and case studies, visit my portfolio.
+<img src="https://www.holopin.io/@omkarmakar#badges" alt="Hacktoberfest 2024 Badges" />
+
+---
+
+## 📈 GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajyashhh/rajyashhh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajyashhh/rajyashhh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rajyashhh/rajyashhh/output/github-snake.svg" />
+</picture>
 
 ---
 
