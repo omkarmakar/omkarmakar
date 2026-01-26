@@ -22,12 +22,36 @@ I enjoy combining core engineering principles with AI to build systems that gene
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iamomkarmakar)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamomkarmakar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-karmakar-52214b1ba)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarmakar07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-black?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://byomkesh.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/om-karmakar-52214b1ba)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarmakar07@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/iamomkarmakar)
+
+---
+
+## 🚀 Portfolio Highlight
+
+> **Explore my complete body of work, research projects, and deployed applications**  
+> 👉 **[Visit my portfolio website](https://your-portfolio-link.com)**
+
+The portfolio includes:
+- End-to-end AI & ML projects  
+- Engineering system simulations and optimizations  
+- Full-stack applications and SaaS prototypes  
+- Research experiments and technical write-ups  
+
+---
+
+## 🧠 Focus Areas & Selected Work
+
+- **AI for Engineering Systems** – Smart grids, power system optimization, predictive analytics  
+- **Machine Learning & Data Science** – Feature engineering, model optimization, deployment  
+- **Full-Stack Development** – Scalable backend APIs, modern frontend frameworks  
+- **Blockchain & Web3** – Smart contracts, decentralized applications, system design  
+
+> Detailed implementations, demos, and documentation are available on my portfolio and pinned repositories.
 
 ---
 
@@ -40,39 +64,24 @@ I enjoy combining core engineering principles with AI to build systems that gene
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-### Frameworks & Libraries
+### Frameworks, ML & Cloud
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Overview
 
-![Stats](https://github-readme-stats.vercel.app/api?username=omkarmakar&theme=dark&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=omkarmakar&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmakar&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmakar&theme=dark&layout=compact)
+
+> For complete project documentation, demos, and case studies, visit my portfolio.
 
 ---
 
