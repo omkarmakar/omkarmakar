@@ -97,4 +97,4 @@ The portfolio includes:
 
 ## ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
